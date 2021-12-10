@@ -1,4 +1,4 @@
-I used node-fetch instead of express, just run it like a node script, it logs to console
+I used node-fetch instead of express, just run it like a node script, 'node posts.js'  -> it logs to console
 
 I didn't understand where to find a list of all available tags.  It doesnt seem to be in the instructions.
 
